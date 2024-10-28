@@ -1,0 +1,4 @@
+## Requirements
+- Python 3.x
+- PIL (Python Imaging Library)
+- Tkinter (usually comes with Python)
